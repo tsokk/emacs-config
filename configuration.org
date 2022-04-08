@@ -562,7 +562,6 @@ Useful if file changed on disk
            (python . t)
            (gnuplot . t)
            (shell . t)
-           (ledger . t)
            (org . t)
            (latex . t)
            (haskell . t))))
